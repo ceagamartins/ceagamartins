@@ -1,4 +1,4 @@
-# :man_technologist: Christian Martins Braga da Silva
+# :man_technologist: Christian Martins Braga da Silva :brazil:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ceagamartins)](https://www.linkedin.com/in/ceagamartins/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991202381&text=Olá!)](https://api.whatsapp.com/send?phone=5514991202381&text=Olá!)
@@ -7,9 +7,9 @@
 [![Hotmail Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:martins.christian@live.com)](mailto:martins.christian@live.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-3f4cce?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/ceagamartins)](https://www.behance.net/ceagamartins)
 
-    Olá, meu nome é Christian Martins, Técnico em TI e aspirante a Full-Stack Developer. 🇧🇷
+    Olá, meu nome é Christian Martins, Técnico em TI e aspirante a Full-Stack Developer.
     /
-    Hello, my name is Christian Martins, IT Technician and aspiring Full-Stack Developer. 🇧🇷
+    Hello, my name is Christian Martins, IT Technician and aspiring Full-Stack Developer.
 
 ## Conhecimentos / Knowledges
 
