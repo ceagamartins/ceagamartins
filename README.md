@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ceagamartins@gmail.com)](mailto:ceagamartins@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:martins.christian@live.com)](mailto:martins.christian@live.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-3f4cce?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/ceagamartins)](https://www.behance.net/ceagamartins)
+<!-- [![Discord Badge](https://img.shields.io/badge/-Behance-3f4cce?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/ceagamartins)](https://www.behance.net/ceagamartins) -->
 
     Olá, meu nome é Christian Martins, Técnico em TI e aspirante a Full-Stack Developer.
     /
