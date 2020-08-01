@@ -19,13 +19,13 @@
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
 [![C#](https://img.shields.io/badge/-CSharp-5b3c9e?style=flat-square&logo=c-sharp&logoColor=white&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
 [![Java](https://img.shields.io/badge/-Java-E25822?style=flat-square&logo=Java&logoColor=white&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
+[![Python](https://img.shields.io/badge/-Python-001ef1?style=flat-square&logo=python&logoColor=white&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
+[![.Net](https://img.shields.io/badge/-000000?style=flat-square&logo=.net&logoColor=white&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
-[![Python](https://img.shields.io/badge/-Python-001ef1?style=flat-square&logo=python&logoColor=white&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
-[![.Net](https://img.shields.io/badge/-000000?style=flat-square&logo=.net&logoColor=white&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/ceagamartins/)](https://github.com/ceagamartins/)
