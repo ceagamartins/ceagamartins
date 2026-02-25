@@ -27,3 +27,5 @@ Professional with a background in IT Support and Systems Analysis, currently lev
 ### 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/ceagamartins2/) | [Email](mailto:martins.christian@live.com) | [Portfolio](https://www.behance.net/ceagamartins)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ceagamartins&color=blue)
