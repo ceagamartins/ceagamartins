@@ -30,6 +30,5 @@ Professional with a background in IT Support and Systems Analysis, currently lev
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ceagamartins&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ceagamartins&theme=meta-light&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=ceagamartins&color=blue)
