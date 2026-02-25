@@ -23,12 +23,6 @@ Professional with a background in IT Support and Systems Analysis, currently lev
 
 ---
 
-### 📊 GitHub Metrics
-
-![Christian's Stats](https://github-readme-stats.vercel.app/api?username=ceagamartins&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5)
-
----
-
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/ceagamartins/) | [Email](mailto:ceagamartins@gmail.com) | [Portfolio](https://www.behance.net/ceagamartins)
+[LinkedIn](https://www.linkedin.com/in/ceagamartins2/) | [Email](mailto:ceagamartins@gmail.com) | [Portfolio](https://www.behance.net/ceagamartins)
