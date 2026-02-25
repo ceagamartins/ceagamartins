@@ -1,5 +1,5 @@
 # :man_technologist:  Christian Martins :brazil:
-**Software Engineer | Java Full-Stack | AI Aspirant**
+**Software Engineer | Java Full-Stack | IT Support | AI Aspirant**
 
 Professional with a background in IT Support and Systems Analysis, currently leveraging a Post-Graduate specialization in Java Full-Stack to build scalable applications. Committed to continuous evolution, with a strategic focus on a future B.Sc. in Artificial Intelligence.
 
@@ -7,10 +7,11 @@ Professional with a background in IT Support and Systems Analysis, currently lev
 
 ### 🛠 Tech Stack
 
-* **Languages:** Java (Spring Boot), Python, TypeScript, C#
-* **Web & Frameworks:** Angular, Node.js, HTML5, CSS3, Bootstrap
-* **Data & Infrastructure:** PostgreSQL, MySQL, MongoDB, Docker
+* **Languages:** Java, Python, JavaScript, TypeScript, C, C#, Pascal, ABAP
+* **Web & Frameworks:** Angular, Node.js, HTML5, CSS3, Bootstrap, Sass, JQuery, Primefaces, JSF
+* **Data & Infrastructure:** PostgreSQL, MySQL, MongoDB, Oracle, Docker
 * **Version Control:** Git / GitHub
+* **Others:** Arduino
 
 ---
 
@@ -25,4 +26,4 @@ Professional with a background in IT Support and Systems Analysis, currently lev
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/ceagamartins2/) | [Email](mailto:ceagamartins@gmail.com) | [Portfolio](https://www.behance.net/ceagamartins)
+[LinkedIn](https://www.linkedin.com/in/ceagamartins2/) | [Email](mailto:martins.christian@live.com) | [Portfolio](https://www.behance.net/ceagamartins)
